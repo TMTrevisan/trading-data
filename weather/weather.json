@@ -1,6 +1,8 @@
 {
   "date": "2026-10-30",
-  "breadthAbove50Pct": 64.94,
+  "breadthAbove20Pct": 69.32,
+  "breadthAbove50Pct": 60.16,
+  "breadthAbove200Pct": 59.2,
   "spyVs200dmaPct": 3.69,
   "qqqVs200dmaPct": 1.61,
   "iwmVs200dmaPct": 0.22
