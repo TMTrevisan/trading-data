@@ -1,9 +1,9 @@
 {
-  "date": "2026-11-17",
-  "breadthAbove20Pct": 41.04,
-  "breadthAbove50Pct": 57.77,
+  "date": "2026-11-18",
+  "breadthAbove20Pct": 40.24,
+  "breadthAbove50Pct": 56.18,
   "breadthAbove200Pct": 55.8,
-  "spyVs200dmaPct": 0.01,
-  "qqqVs200dmaPct": -3.76,
-  "iwmVs200dmaPct": -3.74
+  "spyVs200dmaPct": -0.32,
+  "qqqVs200dmaPct": -3.41,
+  "iwmVs200dmaPct": -3.37
 }
